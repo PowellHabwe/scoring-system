@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 60px;
+    background: #f0f0f0;
+}
+h1 {
+    color: #333;
+}
+.buttons {
+    margin-top: 30px;
+}
+.btn {
+    text-decoration: none;
+    padding: 15px 30px;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    margin: 10px;
+    display: inline-block;
+}
+.btn:hover {
+    background: #0056b3;
+}
